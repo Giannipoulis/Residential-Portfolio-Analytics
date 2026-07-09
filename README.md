@@ -30,23 +30,23 @@ The Power BI dashboard provides an executive view of occupancy, revenue, receiva
 ## Power BI Report Pages
 
 - **Page 1: Executive Summary** - High-level portfolio KPIs and overall performance.
-![Power BI Dashboard](Images/Power_BI_Dashboard_Page_1.png)
+![Executive Summary](Images/Power_BI_Dashboard_Page_1.png)
 
  
 - **Page 2: Revenue Analysis** - Revenue trends, rent levels, and optimization opportunities.
-![Power BI Dashboard](Images/Power_BI_Dashboard_Page_2.png)
+![Revenue Analysis](Images/Power_BI_Dashboard_Page_2.png)
 
 
 - **Page 3: Rent Optimization** - Units with below-market rent and recommended increases.
-![Power BI Dashboard](Images/Power_BI_Dashboard_Page_3.png)
+![Rent Optimization](Images/Power_BI_Dashboard_Page_3.png)
 
 
 - **Page 4: Receivables Analysis** - Outstanding balances, aging, and delinquency risk.
-![Power BI Dashboard](Images/Power_BI_Dashboard_Page_4.png)
+![Rent Optimization](Images/Power_BI_Dashboard_Page_4.png)
 
 
 - **Page 5: Maintenance Analysis** - Repair costs, maintenance burden, and operational impact.
-![Power BI Dashboard](Images/Power_BI_Dashboard_Page_5.png)
+![Maintenance Analysis](Images/Power_BI_Dashboard_Page_5.png)
 
 
 ## Business Problem
