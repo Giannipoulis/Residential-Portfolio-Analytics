@@ -11,7 +11,7 @@ This project transforms residential property data into actionable business insig
 ## Dashboard Preview
 The Power BI dashboard provides an executive view of occupancy, revenue, receivables, maintenance, and optimization opportunities.
 
-![Power BI Dashboard](Residential-Portfolio-Analytics/Images/Power_BI_Dashboard.png)
+![Power BI Dashboard](Images/Power_BI_Dashboard.png)
 
 ## Project at a Glance
 
@@ -29,25 +29,25 @@ The Power BI dashboard provides an executive view of occupancy, revenue, receiva
 
 ## Power BI Report Pages
 
-- **Page 1: Executive Summary**
-Screenshot
- High-level portfolio KPIs and overall performance.
- 
-- **Page 2: Revenue Analysis**
-- Screenshot
-- Revenue trends, rent levels, and optimization opportunities.
+- **Page 1: Executive Summary** - High-level portfolio KPIs and overall performance.
+![Power BI Dashboard](Images/Power_BI_Dashboard_Page_1.png)
 
-- **Page 3: Rent Optimization**
-- Screenshot
-- Units with below-market rent and recommended increases.
--
-- **Page 4: Receivables Analysis**
-- Screenshot
-- Outstanding balances, aging, and delinquency risk.
--
-- **Page 5: Maintenance Analysis**
-- Screenshot
-- Repair costs, maintenance burden, and operational impact.
+ 
+- **Page 2: Revenue Analysis** - Revenue trends, rent levels, and optimization opportunities.
+![Power BI Dashboard](Images/Power_BI_Dashboard_Page_2.png)
+
+
+- **Page 3: Rent Optimization** - Units with below-market rent and recommended increases.
+![Power BI Dashboard](Images/Power_BI_Dashboard_Page_3.png)
+
+
+- **Page 4: Receivables Analysis** - Outstanding balances, aging, and delinquency risk.
+![Power BI Dashboard](Images/Power_BI_Dashboard_Page_4.png)
+
+
+- **Page 5: Maintenance Analysis** - Repair costs, maintenance burden, and operational impact.
+![Power BI Dashboard](Images/Power_BI_Dashboard_Page_5.png)
+
 
 ## Business Problem
 Residential property portfolios often contain hidden revenue opportunities caused by below-market rents, long-tenure leases, and operational inefficiencies. Property managers also need to track tenant arrears, maintenance costs, and portfolio performance to support faster operational and investment decisions.
@@ -73,7 +73,7 @@ This project was designed to answer three core business themes:
 - Which maintenance patterns create the greatest cost pressure?
 
 ## Workflow
-![Flow Diagram](Global-Energy-Consumption-Sustainability-Analysis/Images/Data_Flow_Diagram.png)
+![Flow Diagram](Images/Project_Architecture_Diagram.png)
 
 ## Dashboard Development
 Designed and developed two executive dashboards focused on portfolio performance and revenue optimization. The dashboards include KPI cards, trend analysis, optimization visuals, receivables aging segmentation, and risk analysis.
@@ -89,7 +89,7 @@ Key visuals include:
 - Regression analysis for performance trends.
 
 ## Excel Executive Dashboard
-![Excel Dashboard](Global-Energy-Consumption-Sustainability-Analysis/Images/Excel_Dashboard.png)
+![Excel Dashboard](Images/EXCEL_Dashboard.png)
 
 ## Business Impact
 The analytical solution generated several actionable insights:
