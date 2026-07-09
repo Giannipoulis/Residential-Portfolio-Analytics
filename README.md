@@ -27,6 +27,28 @@ The Power BI dashboard provides an executive view of occupancy, revenue, receiva
 | Data Sources | Excel, MySQL |
 | Technologies | Excel, MySQL, Power BI |
 
+## Power BI Report Pages
+
+- **Page 1: Executive Summary**
+Screenshot
+ High-level portfolio KPIs and overall performance.
+ 
+- **Page 2: Revenue Analysis**
+- Screenshot
+- Revenue trends, rent levels, and optimization opportunities.
+
+- **Page 3: Rent Optimization**
+- Screenshot
+- Units with below-market rent and recommended increases.
+-
+- **Page 4: Receivables Analysis**
+- Screenshot
+- Outstanding balances, aging, and delinquency risk.
+-
+- **Page 5: Maintenance Analysis**
+- Screenshot
+- Repair costs, maintenance burden, and operational impact.
+
 ## Business Problem
 Residential property portfolios often contain hidden revenue opportunities caused by below-market rents, long-tenure leases, and operational inefficiencies. Property managers also need to track tenant arrears, maintenance costs, and portfolio performance to support faster operational and investment decisions.
 
