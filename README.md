@@ -89,7 +89,7 @@ Key visuals include:
 - Regression analysis for performance trends.
 
 ## Excel Executive Dashboard
-![Excel Dashboard](Images/EXCEL_Dashboard.png)
+![Excel Dashboard](Images/EXCEL_Dashbord.png)
 
 ## Business Impact
 The analytical solution generated several actionable insights:
