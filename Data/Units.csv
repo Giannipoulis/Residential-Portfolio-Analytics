@@ -1,0 +1,88 @@
+Unit_ID,Building_ID,Unit_Number,Regulation_Status,Bedrooms,Bathrooms,Washer_Dryer,Dishwasher,Renovated,Floor,Occupied_Status
+BLDG_01-1A,BLDG_01,1A,Regulated Unit,0,1,No,No,No,1,YES
+BLDG_01-1B,BLDG_01,1B,Regulated Unit,2,1,No,No,No,1,YES
+BLDG_01-1C,BLDG_01,1C,Regulated Unit,1,1,No,No,No,1,YES
+BLDG_01-1D,BLDG_01,1D,Regulated Unit,2,1,No,No,No,1,YES
+BLDG_01-1E,BLDG_01,1E,Regulated Unit,1,1,No,No,No,1,YES
+BLDG_01-1F,BLDG_01,1F,Regulated Unit,1,1,No,No,No,1,YES
+BLDG_01-1G,BLDG_01,1G,Regulated Unit,2,1,No,No,No,1,YES
+BLDG_01-1H,BLDG_01,1H,Regulated Unit,2,1,No,No,No,1,YES
+BLDG_01-1J,BLDG_01,1J,Regulated Unit,1,1,No,Yes,Yes,1,YES
+BLDG_01-1K,BLDG_01,1K,Regulated Unit,2,1,No,No,No,1,YES
+BLDG_01-1L,BLDG_01,1L,Regulated Unit,2,1,No,No,No,1,YES
+BLDG_01-1M,BLDG_01,1M,Regulated Unit,0,1,No,No,No,1,YES
+BLDG_01-2A,BLDG_01,2A,Regulated Unit,1,1,No,No,No,2,YES
+BLDG_01-2B,BLDG_01,2B,Regulated Unit,2,1,No,No,No,2,YES
+BLDG_01-2C,BLDG_01,2C,Regulated Unit,1,1,No,No,Yes,2,YES
+BLDG_01-2D,BLDG_01,2D,Regulated Unit,2,1,No,No,No,2,YES
+BLDG_01-2E,BLDG_01,2E,Regulated Unit,1,1,No,No,No,2,YES
+BLDG_01-2F,BLDG_01,2F,Regulated Unit,1,1,No,No,No,2,YES
+BLDG_01-2G,BLDG_01,2G,Regulated Unit,2,1,No,No,No,2,YES
+BLDG_01-2H,BLDG_01,2H,Regulated Unit,2,1,No,No,No,2,YES
+BLDG_01-2J,BLDG_01,2J,Regulated Unit,1,1,No,No,No,2,YES
+BLDG_01-2K,BLDG_01,2K,Regulated Unit,1,1,Yes,Yes,Yes,2,YES
+BLDG_01-2L,BLDG_01,2L,Regulated Unit,2,1,No,No,No,2,YES
+BLDG_01-2M,BLDG_01,2M,Regulated Unit,1,1,Yes,Yes,Yes,2,YES
+BLDG_01-3A,BLDG_01,3A,Regulated Unit,1,1,No,No,No,2,YES
+BLDG_01-3B,BLDG_01,3B,Regulated Unit,2,1,No,No,No,3,YES
+BLDG_01-3C,BLDG_01,3C,Regulated Unit,1,1,No,Yes,No,3,YES
+BLDG_01-3D,BLDG_01,3D,Regulated Unit,2,1,No,No,No,3,NO
+BLDG_01-3E,BLDG_01,3E,Regulated Unit,1,1,No,No,No,3,YES
+BLDG_01-3F,BLDG_01,3F,Regulated Unit,1,1,No,No,No,3,YES
+BLDG_01-3G,BLDG_01,3G,Regulated Unit,2,1,Yes,No,No,3,YES
+BLDG_01-3H,BLDG_01,3H,Regulated Unit,2,1,No,No,No,3,YES
+BLDG_01-3J,BLDG_01,3J,Regulated Unit,1,1,No,No,No,3,YES
+BLDG_01-3KL,BLDG_01,3KL,Regulated Unit,3,2,No,No,No,3,YES
+BLDG_01-3M,BLDG_01,3M,Regulated Unit,1,1,No,No,No,3,YES
+BLDG_01-4A,BLDG_01,4A,Regulated Unit,1,1,Yes,Yes,Yes,4,YES
+BLDG_01-4B,BLDG_01,4B,Regulated Unit,2,1,No,No,No,4,YES
+BLDG_01-4C,BLDG_01,4C,Regulated Unit,1,1,No,No,No,4,YES
+BLDG_01-4D,BLDG_01,4D,Regulated Unit,2,1,No,No,No,4,YES
+BLDG_01-4E,BLDG_01,4E,Regulated Unit,1,1,No,No,No,4,YES
+BLDG_01-4F,BLDG_01,4F,Regulated Unit,1,1,No,No,No,4,YES
+BLDG_01-4G,BLDG_01,4G,Regulated Unit,2,1,Yes,Yes,No,4,YES
+BLDG_01-4H,BLDG_01,4H,Regulated Unit,2,1,No,No,No,4,YES
+BLDG_01-4J,BLDG_01,4J,Regulated Unit,1,1,Yes,Yes,Yes,4,YES
+BLDG_01-4K,BLDG_01,4K,Regulated Unit,1,1,No,No,No,4,YES
+BLDG_01-4L,BLDG_01,4L,Regulated Unit,2,1,No,No,No,4,YES
+BLDG_01-4M,BLDG_01,4M,Regulated Unit,1,1,No,No,No,4,YES
+BLDG_01-5A,BLDG_01,5A,Regulated Unit,1,1,Yes,Yes,Yes,5,YES
+BLDG_01-5B,BLDG_01,5B,Regulated Unit,2,1,No,No,No,5,YES
+BLDG_01-5C,BLDG_01,5C,Regulated Unit,1,1,No,No,No,5,YES
+BLDG_01-5D,BLDG_01,5D,Regulated Unit,2,1,No,No,No,5,YES
+BLDG_01-5E,BLDG_01,5E,Regulated Unit,1,1,No,No,No,5,YES
+BLDG_01-5F,BLDG_01,5F,Regulated Unit,1,1,No,No,No,5,YES
+BLDG_01-5G,BLDG_01,5G,Regulated Unit,2,1,Yes,No,No,5,YES
+BLDG_01-5H,BLDG_01,5H,Regulated Unit,2,1,No,No,No,5,YES
+BLDG_01-5J,BLDG_01,5J,Regulated Unit,1,1,No,No,No,5,YES
+BLDG_01-5K,BLDG_01,5K,Regulated Unit,1,1,No,No,No,5,YES
+BLDG_01-5L,BLDG_01,5L,Regulated Unit,2,1,No,No,No,5,YES
+BLDG_01-5M,BLDG_01,5M,Regulated Unit,1,1,No,No,No,5,YES
+BLDG_01-6A,BLDG_01,6A,Regulated Unit,1,1,No,No,No,6,YES
+BLDG_01-6B,BLDG_01,6B,Regulated Unit,2,1,No,No,No,6,YES
+BLDG_01-6C,BLDG_01,6C,Regulated Unit,1,1,No,No,No,6,YES
+BLDG_01-6D,BLDG_01,6D,Regulated Unit,2,1,Yes,Yes,No,6,YES
+BLDG_01-6E,BLDG_01,6E,Regulated Unit,1,1,No,No,No,6,YES
+BLDG_01-6F,BLDG_01,6F,Regulated Unit,1,1,No,No,No,6,YES
+BLDG_01-6G,BLDG_01,6G,Regulated Unit,2,1,No,No,No,6,YES
+BLDG_01-6H,BLDG_01,6H,Regulated Unit,2,1,No,No,No,6,YES
+BLDG_01-6J,BLDG_01,6J,Regulated Unit,1,1,No,No,No,6,YES
+BLDG_01-6K,BLDG_01,6K,Regulated Unit,1,1,No,No,No,6,YES
+BLDG_01-6L,BLDG_01,6L,Regulated Unit,2,2,No,Yes,No,6,YES
+BLDG_01-6M,BLDG_01,6M,Regulated Unit,1,1,No,No,No,6,YES
+BLDG_02-1AA,BLDG_02,1AA,Free-Market,0,1,Yes,Yes,Yes,1,YES
+BLDG_02-1A,BLDG_02,1A,Free-Market,1,1,Yes,Yes,Yes,1,YES
+BLDG_02-1B,BLDG_02,1B,Free-Market,1,1,Yes,Yes,Yes,1,YES
+BLDG_02-1C,BLDG_02,1C,Free-Market,1,1,Yes,Yes,Yes,1,YES
+BLDG_02-2A,BLDG_02,2A,Free-Market,1,1,Yes,Yes,Yes,2,YES
+BLDG_02-2B,BLDG_02,2B,Free-Market,1,1,Yes,Yes,Yes,2,YES
+BLDG_02-2C,BLDG_02,2C,Free-Market,1,1,Yes,Yes,Yes,2,YES
+BLDG_02-3A,BLDG_02,3A,Free-Market,1,1,Yes,Yes,Yes,3,YES
+BLDG_02-3B,BLDG_02,3B,Free-Market,1,1,Yes,Yes,Yes,3,YES
+BLDG_02-3C,BLDG_02,3C,Free-Market,1,1,Yes,Yes,Yes,3,YES
+BLDG_02-4A,BLDG_02,4A,Free-Market,1,1,Yes,Yes,Yes,4,YES
+BLDG_02-4B,BLDG_02,4B,Free-Market,1,1,Yes,Yes,Yes,4,YES
+BLDG_02-4C,BLDG_02,4C,Free-Market,1,1,Yes,Yes,Yes,4,YES
+BLDG_02-5A,BLDG_02,5A,Free-Market,2,1,Yes,Yes,Yes,5,YES
+BLDG_02-5B,BLDG_02,5B,Free-Market,1,1,Yes,Yes,Yes,5,YES
+BLDG_02-5C,BLDG_02,5C,Free-Market,2,1,Yes,Yes,Yes,5,YES

@@ -1,0 +1,158 @@
+Tenant_ID,Unit_ID,Units_Status,Tenant_Status,Repair_Type,Repair_Date,Repair_Cost,Estimated_Savings,Priority_Level,Annualized_Savings,Repair_ROI,Useful_Life_Years
+TEN-BLDG_01-1A-001,BLDG_01-1A,No,New Tenant,Painting,2023-05-01,450.00,225.00,High,75.00,-0.833,3
+TEN-BLDG_01-1B-002,BLDG_01-1A,No,New Tenant,General Maintenance,2024-05-01,260.00,260.00,High,260.00,0.000,1
+TEN-BLDG_01-1C-003,BLDG_01-1A,No,New Tenant,Plumbing,2025-05-01,210.00,630.00,Medium,630.00,2.000,1
+TEN-BLDG_01-1D-004,BLDG_01-1D,No,Existing Tenant,Plumbing,2023-01-17,120.00,360.00,Medium,360.00,2.000,1
+TEN-BLDG_01-1E-005,BLDG_01-1E,No,Existing Tenant,Plumbing,2023-01-25,90.00,270.00,Medium,270.00,2.000,1
+TEN-BLDG_01-1F-006,BLDG_01-1F,No,Existing Tenant,Plumbing,2023-01-26,390.00,1170.00,High,1170.00,2.000,1
+TEN-BLDG_01-1G-007,BLDG_01-1G,No,Existing Tenant,Electrical,2023-01-30,150.00,375.00,High,375.00,1.500,1
+TEN-BLDG_01-1H-008,BLDG_01-2A,No,Existing Tenant,Plumbing,2023-02-27,360.00,1080.00,Medium,1080.00,2.000,1
+TEN-BLDG_01-1J-009,BLDG_01-2B,No,Existing Tenant,Emergency Repair,2023-03-05,765.00,765.00,Emergency,765.00,0.000,1
+TEN-BLDG_01-1K-010,BLDG_01-2D,No,Existing Tenant,Plumbing,2023-03-08,180.00,540.00,Medium,540.00,2.000,1
+TEN-BLDG_01-1L-011,BLDG_01-2E,No,Existing Tenant,Plumbing,2023-03-13,180.00,540.00,High,540.00,2.000,1
+TEN-BLDG_01-1M-012,BLDG_01-2G,No,Existing Tenant,Plumbing,2023-03-22,230.00,690.00,High,690.00,2.000,1
+TEN-BLDG_01-2A-013,BLDG_01-2G,No,Existing Tenant,General Maintenance,2023-03-30,120.00,120.00,Medium,120.00,0.000,1
+TEN-BLDG_01-2B-014,BLDG_01-2J,No,Existing Tenant,Electrical,2023-04-02,350.00,875.00,Medium,875.00,1.500,1
+TEN-BLDG_01-2C-015,BLDG_01-2L,No,Existing Tenant,Painting,2023-04-12,450.00,225.00,High,75.00,-0.833,3
+TEN-BLDG_01-2D-016,BLDG_01-3A,No,Existing Tenant,Electrical,2023-04-16,180.00,450.00,Medium,450.00,1.500,1
+TEN-BLDG_01-2E-017,BLDG_01-3B,No,Existing Tenant,Electrical,2023-04-22,390.00,975.00,High,975.00,1.500,1
+TEN-BLDG_01-2F-018,BLDG_01-3C,No,Existing Tenant,Emergency Repair,2023-04-28,610.00,610.00,Emergency,610.00,0.000,1
+TEN-BLDG_01-2G-019,BLDG_01-3D,No,Existing Tenant,Electrical,2023-04-29,150.00,375.00,High,375.00,1.500,1
+TEN-BLDG_01-2H-020,BLDG_01-3E,No,Existing Tenant,Electrical,2023-05-07,80.00,200.00,High,200.00,1.500,1
+TEN-BLDG_01-2J-021,BLDG_01-3G,No,Existing Tenant,Electrical,2023-05-15,130.00,325.00,High,325.00,1.500,1
+TEN-BLDG_01-2K-022,BLDG_01-3H,No,Existing Tenant,Electrical,2023-05-17,260.00,650.00,High,650.00,1.500,1
+TEN-BLDG_01-2L-023,BLDG_01-3J,No,Existing Tenant,General Maintenance,2023-05-23,120.00,120.00,Medium,120.00,0.000,1
+TEN-BLDG_01-2M-024,BLDG_01-3KL,No,Existing Tenant,Plumbing,2023-05-23,350.00,1050.00,Medium,1050.00,2.000,1
+TEN-BLDG_01-3A-025,BLDG_01-3M,No,Existing Tenant,Flooring,2023-06-01,1130.00,1130.00,Medium,113.00,-0.900,10
+TEN-BLDG_01-3B-026,BLDG_01-4B,No,Existing Tenant,Plumbing,2023-06-09,80.00,240.00,High,240.00,2.000,1
+TEN-BLDG_01-3C-027,BLDG_01-4C,No,Existing Tenant,Electrical,2023-06-14,120.00,300.00,Medium,300.00,1.500,1
+TEN-BLDG_01-3D-028,BLDG_01-4D,No,Existing Tenant,General Maintenance,2023-06-18,210.00,210.00,High,210.00,0.000,1
+TEN-BLDG_01-3E-029,BLDG_01-4E,No,Existing Tenant,Emergency Repair,2023-06-20,950.00,950.00,Emergency,950.00,0.000,1
+TEN-BLDG_01-3F-030,BLDG_01-4F,No,Existing Tenant,Painting,2023-06-26,450.00,225.00,Medium,75.00,-0.833,3
+TEN-BLDG_01-3G-031,BLDG_01-4G,No,Existing Tenant,Plumbing,2023-06-30,80.00,240.00,High,240.00,2.000,1
+TEN-BLDG_01-3H-032,BLDG_01-4H,No,Existing Tenant,Electrical,2023-07-05,210.00,525.00,Medium,525.00,1.500,1
+TEN-BLDG_01-3J-033,BLDG_01-4K,No,Existing Tenant,Electrical,2023-07-12,290.00,725.00,Medium,725.00,1.500,1
+TEN-BLDG_01-3KL-034,BLDG_01-4L,,Existing Tenant,Electrical,2023-07-16,80.00,200.00,Medium,200.00,1.500,1
+TEN-BLDG_01-3M-035,BLDG_01-4M,,Existing Tenant,Electrical,2023-07-16,610.00,1525.00,High,1525.00,1.500,1
+TEN-BLDG_01-4A-036,BLDG_01-5C,,Existing Tenant,Plumbing,2023-08-02,450.00,1350.00,High,1350.00,2.000,1
+TEN-BLDG_01-4B-037,BLDG_01-5D,,Existing Tenant,Plumbing,2023-08-07,180.00,540.00,High,540.00,2.000,1
+TEN-BLDG_01-4C-038,BLDG_01-5E,,Existing Tenant,Flooring,2023-08-08,980.00,980.00,Medium,98.00,-0.900,10
+TEN-BLDG_01-4D-039,BLDG_01-5F,,Existing Tenant,Emergency Repair,2023-08-12,521.00,521.00,Emergency,521.00,0.000,1
+TEN-BLDG_01-4E-040,BLDG_01-5G,,Existing Tenant,HVAC,2023-08-20,350.00,1400.00,High,1400.00,3.000,1
+TEN-BLDG_01-4F-041,BLDG_01-5H,,Existing Tenant,Painting,2023-08-22,450.00,225.00,Medium,75.00,-0.833,3
+TEN-BLDG_01-4G-042,BLDG_01-5J,,Existing Tenant,Painting,2023-08-23,450.00,225.00,Medium,75.00,-0.833,3
+TEN-BLDG_01-4H-043,BLDG_01-5K,,Existing Tenant,Painting,2023-08-29,450.00,225.00,Low,75.00,-0.833,3
+TEN-BLDG_01-4J-044,BLDG_01-5L,,Existing Tenant,Painting,2023-09-05,450.00,225.00,Low,75.00,-0.833,3
+TEN-BLDG_01-4K-045,BLDG_01-5M,,New Tenant,Painting,2023-01-01,450.00,225.00,High,75.00,-0.833,3
+TEN-BLDG_01-4L-046,BLDG_01-5M,,New Tenant,General Maintenance,2023-01-01,305.00,305.00,High,305.00,0.000,1
+TEN-BLDG_01-4M-047,BLDG_01-5M,,New Tenant,Electrical,2023-01-01,660.00,1650.00,High,1650.00,1.500,1
+TEN-BLDG_01-5A-048,BLDG_01-6C,,Existing Tenant,Painting,2023-09-22,450.00,225.00,Medium,75.00,-0.833,3
+TEN-BLDG_01-5B-049,BLDG_01-6D,,Existing Tenant,Flooring,2023-09-27,1050.00,1050.00,Medium,105.00,-0.900,10
+TEN-BLDG_01-5C-050,BLDG_01-6E,,Existing Tenant,Plumbing,2023-09-27,220.00,660.00,High,660.00,2.000,1
+TEN-BLDG_01-5D-051,BLDG_01-6F,,Existing Tenant,Plumbing,2023-10-01,290.00,870.00,High,870.00,2.000,1
+TEN-BLDG_01-5E-052,BLDG_01-6G,,Existing Tenant,Emergency Repair,2023-10-06,1100.00,1100.00,Emergency,1100.00,0.000,1
+TEN-BLDG_01-5F-053,BLDG_01-6H,,Existing Tenant,Flooring,2023-10-13,1020.00,1020.00,High,102.00,-0.900,10
+TEN-BLDG_01-5G-054,BLDG_01-6J,,Existing Tenant,Flooring,2023-10-13,850.00,850.00,Medium,85.00,-0.900,10
+TEN-BLDG_01-5H-055,BLDG_01-6K,,New Tenant,Painting,2023-08-01,450.00,225.00,High,75.00,-0.833,3
+TEN-BLDG_01-5J-056,BLDG_01-6L,,Existing Tenant,General Maintenance,2023-10-25,250.00,250.00,Low,250.00,0.000,1
+TEN-BLDG_01-5K-057,BLDG_01-6M,,Existing Tenant,General Maintenance,2023-10-26,360.00,360.00,Medium,360.00,0.000,1
+TEN-BLDG_01-5L-058,BLDG_02-1AA,,Existing Tenant,Plumbing,2023-10-29,120.00,360.00,Low,360.00,2.000,1
+TEN-BLDG_01-5M-059,BLDG_02-1A,,Existing Tenant,HVAC,2023-11-03,350.00,1400.00,Low,1400.00,3.000,1
+TEN-BLDG_01-6A-060,BLDG_02-1C,,Existing Tenant,Electrical,2023-11-12,610.00,1525.00,Low,1525.00,1.500,1
+TEN-BLDG_01-6B-061,BLDG_02-3C,,Existing Tenant,Plumbing,2023-12-06,220.00,660.00,Low,660.00,2.000,1
+TEN-BLDG_01-6C-062,BLDG_02-4A,,Existing Tenant,Emergency Repair,2023-12-15,430.00,430.00,Low,430.00,0.000,1
+TEN-BLDG_01-6D-063,,,,,,,,,,,
+TEN-BLDG_01-6E-064,,,,,,,,,,,
+TEN-BLDG_01-6F-065,,,,,,,,,,,
+TEN-BLDG_01-6G-066,,,,,,,,,,,
+TEN-BLDG_01-6H-067,,,,,,,,,,,
+TEN-BLDG_01-6J-068,,,,,,,,,,,
+TEN-BLDG_01-6K-069,,,,,,,,,,,
+TEN-BLDG_01-6L-070,,,,,,,,,,,
+TEN-BLDG_01-6M-071,,,,,,,,,,,
+TEN-BLDG_02-1AA-072,,,,,,,,,,,
+TEN-BLDG_02-1A-073,,,,,,,,,,,
+TEN-BLDG_02-1B-074,,,,,,,,,,,
+TEN-BLDG_02-1C-075,,,,,,,,,,,
+TEN-BLDG_02-2A-076,,,,,,,,,,,
+TEN-BLDG_02-2B-077,,,,,,,,,,,
+TEN-BLDG_02-2C-078,,,,,,,,,,,
+TEN-BLDG_02-3A-079,,,,,,,,,,,
+TEN-BLDG_02-3B-080,,,,,,,,,,,
+TEN-BLDG_02-3C-081,,,,,,,,,,,
+TEN-BLDG_02-4A-082,,,,,,,,,,,
+TEN-BLDG_02-4B-083,,,,,,,,,,,
+TEN-BLDG_02-4C-084,,,,,,,,,,,
+TEN-BLDG_02-5A-085,,,,,,,,,,,
+TEN-BLDG_02-5B-086,,,,,,,,,,,
+TEN-BLDG_02-5C-087,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

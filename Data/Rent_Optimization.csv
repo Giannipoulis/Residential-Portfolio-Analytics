@@ -1,0 +1,88 @@
+Tenant_ID,Unit_ID,Current_Rent,Regulation_Status,Income_Category,Occupancy_Years,Annual_Repair_Cost,Maintenance_Ratio,Low_Rent_Flag,Long_Tenure_Flag,Income_Adjustment,Low_Rent_Adjustment,Long_Tenure_Adjustment,Tenancy_Companion,FM_Turnover_Risk_Adjustment,Recommended_Increase_Percentage,New_Rent,Monthly_Increase,Annual_Revenue_Impact,Increase_Bucket
+TEN-BLDG_01-1A-001,BLDG_01-1A,1456.67,Regulated Unit,Stable Income,3,1100,0.06,0,0,Stable Income,0,0,Standard,FALSE,0.02,1483.18,26.51,318.14,0%-2%
+TEN-BLDG_01-1B-002,BLDG_01-1B,3122.93,Regulated Unit,High Income,4,0,0,0,0,High Income,0,0,Standard,FALSE,0.02,3179.77,56.84,682.05,0%-2%
+TEN-BLDG_01-1C-003,BLDG_01-1C,2084.22,Regulated Unit,Strong Income,4,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,2122.15,37.93,455.19,0%-2%
+TEN-BLDG_01-1D-004,BLDG_01-1D,819.54,Regulated Unit,Strong Income,5,120,0.01,1,0,Strong Income,0.01,0,Standard,FALSE,0.03,842.65,23.11,277.33,2%-4%
+TEN-BLDG_01-1E-005,BLDG_01-1E,837.41,Regulated Unit,Strong Income,6,90,0.01,1,0,Strong Income,0.01,0,Standard,FALSE,0.03,861.02,23.61,283.38,2%-4%
+TEN-BLDG_01-1F-006,BLDG_01-1F,1985.93,Regulated Unit,High Income,7,390,0.02,0,0,High Income,0,0,Standard,FALSE,0.02,2022.07,36.14,433.73,0%-2%
+TEN-BLDG_01-1G-007,BLDG_01-1G,1616.94,Regulated Unit,High Income,4,150,0.01,0,0,High Income,0,0,Standard,FALSE,0.02,1646.37,29.43,353.14,0%-2%
+TEN-BLDG_01-1H-008,BLDG_01-1H,1410.92,Regulated Unit,Strong Income,6,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,1436.6,25.68,308.14,0%-2%
+TEN-BLDG_01-1J-009,BLDG_01-1J,2323,Regulated Unit,Strong Income,5,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,2365.28,42.28,507.34,0%-2%
+TEN-BLDG_01-1K-010,BLDG_01-1K,3091.56,Regulated Unit,Strong Income,8,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,3147.83,56.27,675.2,0%-2%
+TEN-BLDG_01-1L-011,BLDG_01-1L,3174.93,Regulated Unit,Strong Income,8,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,3232.71,57.78,693.4,0%-2%
+TEN-BLDG_01-1M-012,BLDG_01-1M,1767.22,Regulated Unit,Strong Income,5,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,1799.38,32.16,385.96,0%-2%
+TEN-BLDG_01-2A-013,BLDG_01-2A,868.31,Regulated Unit,High Income,7,360,0.03,1,0,High Income,0.01,0,Standard,FALSE,0.03,892.8,24.49,293.84,2%-4%
+TEN-BLDG_01-2B-014,BLDG_01-2B,821.74,Regulated Unit,Strong Income,4,765,0.08,1,0,Strong Income,0.01,0,Standard,FALSE,0.03,844.91,23.17,278.08,2%-4%
+TEN-BLDG_01-2C-015,BLDG_01-2C,2323.13,Regulated Unit,High Income,5,0,0,0,0,High Income,0,0,Standard,FALSE,0.02,2365.41,42.28,507.37,0%-2%
+TEN-BLDG_01-2D-016,BLDG_01-2D,687.06,Regulated Unit,Strong Income,5,0,0,1,0,Strong Income,0.01,0,Standard,FALSE,0.03,706.44,19.38,232.5,2%-4%
+TEN-BLDG_01-2E-017,BLDG_01-2E,2044.99,Regulated Unit,High Income,9,180,0.01,0,0,High Income,0,0,Standard,FALSE,0.02,2082.21,37.22,446.63,0%-2%
+TEN-BLDG_01-2F-018,BLDG_01-2F,1935.93,Regulated Unit,High Income,5,0,0,0,0,High Income,0,0,Standard,FALSE,0.02,1971.16,35.23,422.81,0%-2%
+TEN-BLDG_01-2G-019,BLDG_01-2G,2159.68,Regulated Unit,Strong Income,7,350,0.01,0,0,Strong Income,0,0,Standard,FALSE,0.02,2198.99,39.31,471.67,0%-2%
+TEN-BLDG_01-2H-020,BLDG_01-2H,1512.67,Regulated Unit,Strong Income,5,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,1540.2,27.53,330.37,0%-2%
+TEN-BLDG_01-2J-021,BLDG_01-2J,837.84,Regulated Unit,Strong Income,4,350,0.03,1,0,Strong Income,0.01,0,Standard,FALSE,0.03,861.47,23.63,283.53,2%-4%
+TEN-BLDG_01-2K-022,BLDG_01-2K,2152.5,Regulated Unit,Strong Income,5,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,2191.68,39.18,470.11,0%-2%
+TEN-BLDG_01-2L-023,BLDG_01-2L,3544.64,Regulated Unit,Strong Income,6,450,0.01,0,0,Strong Income,0,0,Standard,FALSE,0.02,3609.15,64.51,774.15,0%-2%
+TEN-BLDG_01-2M-024,BLDG_01-2M,1781.06,Regulated Unit,Strong Income,5,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,1813.48,32.42,388.98,0%-2%
+TEN-BLDG_01-3A-025,BLDG_01-3A,1269.94,Regulated Unit,Strong Income,6,180,0.01,0,0,Strong Income,0,0,Standard,FALSE,0.02,1293.05,23.11,277.35,0%-2%
+TEN-BLDG_01-3B-026,BLDG_01-3B,3554.1,Regulated Unit,Strong Income,4,390,0.01,0,0,Strong Income,0,0,Standard,FALSE,0.02,3618.78,64.68,776.22,0%-2%
+TEN-BLDG_01-3C-027,BLDG_01-3C,1989.75,Regulated Unit,High Income,4,610,0.03,0,0,High Income,0,0,Standard,FALSE,0.02,2025.96,36.21,434.56,0%-2%
+VACANT-BLDG_01-3D,BLDG_01-3D,0,Regulated Unit,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TEN-BLDG_01-3E-029,BLDG_01-3E,519.44,Regulated Unit,High Income,3,80,0.01,1,0,High Income,0.01,0,Standard,FALSE,0.03,534.09,14.65,175.78,2%-4%
+TEN-BLDG_01-3F-030,BLDG_01-3F,1950,Regulated Unit,Strong Income,6,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,1985.49,35.49,425.88,0%-2%
+TEN-BLDG_01-3G-031,BLDG_01-3G,3033.93,Regulated Unit,High Income,4,130,0,0,0,High Income,0,0,Standard,FALSE,0.02,3089.15,55.22,662.61,0%-2%
+TEN-BLDG_01-3H-032,BLDG_01-3H,2983.92,Regulated Unit,Strong Income,4,260,0.01,0,0,Strong Income,0,0,Standard,FALSE,0.02,3038.23,54.31,651.69,0%-2%
+TEN-BLDG_01-3J-033,BLDG_01-3J,886.64,Regulated Unit,High Income,5,120,0.01,1,0,High Income,0.01,0,Standard,FALSE,0.03,911.64,25,300.04,2%-4%
+TEN-BLDG_01-3KL-034,BLDG_01-3KL,1812.15,Regulated Unit,Strong Income,6,350,0.02,0,0,Strong Income,0,0,Standard,FALSE,0.02,1845.13,32.98,395.77,0%-2%
+TEN-BLDG_01-3M-035,BLDG_01-3M,2084.86,Regulated Unit,Strong Income,5,1130,0.05,0,0,Strong Income,0,0,Standard,FALSE,0.02,2122.8,37.94,455.33,0%-2%
+TEN-BLDG_01-4A-036,BLDG_01-4A,2362.5,Regulated Unit,Strong Income,5,0,0,0,0,Strong Income,0,0,Standard,FALSE,0.02,2405.5,43,515.97,0%-2%
+TEN-BLDG_01-4B-037,BLDG_01-4B,1724.74,Regulated Unit,High Income,4,80,0,0,0,High Income,0,0,Standard,FALSE,0.02,1756.13,31.39,376.68,0%-2%
+TEN-BLDG_01-4C-038,BLDG_01-4C,1142.81,Regulated Unit,Strong Income,4,120,0.01,0,0,Strong Income,0,0,Standard,FALSE,0.02,1163.61,20.8,249.59,0%-2%
+TEN-BLDG_01-4D-039,BLDG_01-4D,1583.97,Regulated Unit,Strong Income,3,210,0.01,0,0,Strong Income,0,0,Standard,FALSE,0.02,1612.8,28.83,345.94,0%-2%
+TEN-BLDG_01-4E-040,BLDG_01-4E,2380,Regulated Unit,High Income,5,950,0.03,0,0,High Income,0,0,Standard,FALSE,0.02,2423.32,43.32,519.79,0%-2%
+TEN-BLDG_01-4F-041,BLDG_01-4F,1896.85,Regulated Unit,Strong Income,7,450,0.02,0,0,Strong Income,0,0,Standard,FALSE,0.02,1931.37,34.52,414.27,0%-2%
+TEN-BLDG_01-4G-042,BLDG_01-4G,2371.17,Regulated Unit,Strong Income,17,80,0,0,0.01,Strong Income,0,0.01,Long-Term,FALSE,0.03,2438.04,66.87,802.4,2%-4%
+TEN-BLDG_01-4H-043,BLDG_01-4H,2068.1,Regulated Unit,Stable Income,30,210,0,0,0,Stable Income,0,0.03,Legacy Tenant,FALSE,0.0482,2167.78242,99.68,1196.19,4%-6%
+TEN-BLDG_01-4J-044,BLDG_01-4J,2200,Regulated Unit,Strong Income,19,0,0,0,0.01,Strong Income,0,0.01,Long-Term,FALSE,0.03,2262.04,62.04,744.48,2%-4%
+TEN-BLDG_01-4K-045,BLDG_01-4K,628.84,Regulated Unit,Strong Income,16,290,0.04,1,0.01,Strong Income,0.01,0.01,Long-Term,FALSE,0.04,652.86,24.02,288.26,2%-4%
+TEN-BLDG_01-4L-046,BLDG_01-4L,2305.03,Regulated Unit,High Income,10,80,0,0,0.01,High Income,0,0.01,Long-Term,FALSE,0.03,2370.03,65,780.02,2%-4%
+TEN-BLDG_01-4M-047,BLDG_01-4M,1288.75,Regulated Unit,Basic Income,4,610,0.04,0,0,Basic Income,0,0,Standard,FALSE,0.02,1312.21,23.46,281.46,0%-2%
+TEN-BLDG_01-5A-048,BLDG_01-5A,2283.75,Regulated Unit,Strong Income,12,0,0,0,0.01,Strong Income,0,0.01,Long-Term,FALSE,0.03,2348.15,64.4,772.82,2%-4%
+TEN-BLDG_01-5B-049,BLDG_01-5B,1257.47,Regulated Unit,Stable Income,46,0,0,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,1318.08,60.61,727.32,4%-6%
+TEN-BLDG_01-5C-050,BLDG_01-5C,2024.92,Regulated Unit,Stable Income,36,450,0.02,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2122.52,97.6,1171.21,4%-6%
+TEN-BLDG_01-5D-051,BLDG_01-5D,3366.06,Regulated Unit,Stable Income,35,180,0,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,3528.3,162.24,1946.93,4%-6%
+TEN-BLDG_01-5E-052,BLDG_01-5E,537.01,Regulated Unit,Stable Income,21,980,0.15,1,0.03,Stable Income,0.01,0.03,Legacy Tenant,FALSE,0.06,570.95,33.94,407.27,6%+
+TEN-BLDG_01-5F-053,BLDG_01-5F,1985,Regulated Unit,Stable Income,36,521,0.02,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2080.68,95.68,1148.12,4%-6%
+TEN-BLDG_01-5G-054,BLDG_01-5G,3035.55,Regulated Unit,Stable Income,46,350,0.01,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,3181.86,146.31,1755.76,4%-6%
+TEN-BLDG_01-5H-055,BLDG_01-5H,750.1,Regulated Unit,Stable Income,59,450,0.05,1,0.03,Stable Income,0.01,0.03,Legacy Tenant,FALSE,0.06,793.76,43.66,523.87,4%-6%
+TEN-BLDG_01-5J-056,BLDG_01-5J,2493.54,Regulated Unit,Stable Income,30,450,0.02,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2613.73,120.19,1442.26,4%-6%
+TEN-BLDG_01-5K-057,BLDG_01-5K,1937.44,Regulated Unit,Stable Income,36,450,0.02,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2030.82,93.38,1120.62,4%-6%
+TEN-BLDG_01-5L-058,BLDG_01-5L,851.23,Regulated Unit,Stable Income,27,450,0.04,1,0.03,Stable Income,0.01,0.03,Legacy Tenant,FALSE,0.06,900.77,49.54,594.5,4%-6%
+TEN-BLDG_01-5M-059,BLDG_01-5M,3049.19,Regulated Unit,Basic Income,36,1415,0.04,0,0.03,Basic Income,0,0.03,Legacy Tenant,FALSE,0.05,3196.16,146.97,1763.65,4%-6%
+TEN-BLDG_01-6A-060,BLDG_01-6A,1893.17,Regulated Unit,Stable Income,30,0,0,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,1984.42,91.25,1095.01,4%-6%
+TEN-BLDG_01-6B-061,BLDG_01-6B,3200,Regulated Unit,Strong Income,71,0,0,0,0.03,Strong Income,0,0.03,Legacy Tenant,FALSE,0.05,3354.24,154.24,1850.88,4%-6%
+TEN-BLDG_01-6C-062,BLDG_01-6C,1966.75,Regulated Unit,Strong Income,30,450,0.02,0,0.03,Strong Income,0,0.03,Legacy Tenant,FALSE,0.05,2061.55,94.8,1137.57,4%-6%
+TEN-BLDG_01-6D-063,BLDG_01-6D,3039.16,Regulated Unit,Stable Income,28,1050,0.03,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,3185.65,146.49,1757.85,4%-6%
+TEN-BLDG_01-6E-064,BLDG_01-6E,2125,Regulated Unit,Stable Income,31,220,0.01,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2227.43,102.43,1229.1,4%-6%
+TEN-BLDG_01-6F-065,BLDG_01-6F,1770.04,Regulated Unit,Strong Income,23,290,0.01,0,0.03,Strong Income,0,0.03,Legacy Tenant,FALSE,0.05,1855.36,85.32,1023.79,4%-6%
+TEN-BLDG_01-6G-066,BLDG_01-6G,1887.9,Regulated Unit,Basic Income,36,1100,0.05,0,0.03,Basic Income,0,0.03,Legacy Tenant,FALSE,0.05,1978.9,91,1091.96,4%-6%
+TEN-BLDG_01-6H-067,BLDG_01-6H,3056.2,Regulated Unit,Strong Income,28,1020,0.03,0,0.03,Strong Income,0,0.03,Legacy Tenant,FALSE,0.05,3203.51,147.31,1767.71,4%-6%
+TEN-BLDG_01-6J-068,BLDG_01-6J,1987.4,Regulated Unit,Stable Income,29,850,0.04,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2083.19,95.79,1149.51,4%-6%
+TEN-BLDG_01-6K-069,BLDG_01-6K,2520.69,Regulated Unit,Stable Income,36,450,0.01,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2642.19,121.5,1457.97,4%-6%
+TEN-BLDG_01-6L-070,BLDG_01-6L,2689.75,Regulated Unit,Stable Income,36,250,0.01,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2819.4,129.65,1555.75,4%-6%
+TEN-BLDG_01-6M-071,BLDG_01-6M,2096.83,Regulated Unit,Stable Income,48,360,0.01,0,0.03,Stable Income,0,0.03,Legacy Tenant,FALSE,0.05,2197.9,101.07,1212.81,4%-6%
+TEN-BLDG_02-1AA-072,BLDG_02-1AA,1859,Free-Market,Strong Income,5,0,0,0,0,Strong Income,0,0,Standard,0.00%,0.05,1951.95,92.95,1115.4,4%-6%
+TEN-BLDG_02-1A-073,BLDG_02-1A,2980,Free-Market,High Income,5,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3129,149,1788,4%-6%
+TEN-BLDG_02-1B-074,BLDG_02-1B,3028.6,Free-Market,High Income,12,0,0,0,0.01,High Income,0,0.01,Long-Term,0.00%,0.05,3180.03,151.43,1817.16,4%-6%
+TEN-BLDG_02-1C-075,BLDG_02-1C,3191.2,Free-Market,High Income,4,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3350.76,159.56,1914.72,4%-6%
+TEN-BLDG_02-2A-076,BLDG_02-2A,2950,Free-Market,High Income,14,0,0,0,0.01,High Income,0,0.01,Long-Term,0.00%,0.05,3097.5,147.5,1770,4%-6%
+TEN-BLDG_02-2B-077,BLDG_02-2B,3077,Free-Market,High Income,6,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3230.85,153.85,1846.2,4%-6%
+TEN-BLDG_02-2C-078,BLDG_02-2C,3014,Free-Market,High Income,4,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3164.7,150.7,1808.4,4%-6%
+TEN-BLDG_02-3A-079,BLDG_02-3A,2800,Free-Market,High Income,14,0,0,0,0.01,High Income,0,0.01,Long-Term,0.00%,0.05,2940,140,1680,4%-6%
+TEN-BLDG_02-3B-080,BLDG_02-3B,2951.3,Free-Market,High Income,6,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3098.87,147.57,1770.78,4%-6%
+TEN-BLDG_02-3C-081,BLDG_02-3C,2915.4,Free-Market,High Income,4,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3061.17,145.77,1749.24,4%-6%
+TEN-BLDG_02-4A-082,BLDG_02-4A,3102.75,Free-Market,High Income,4,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3257.89,155.14,1861.65,4%-6%
+TEN-BLDG_02-4B-083,BLDG_02-4B,3045.9,Free-Market,High Income,5,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3198.2,152.3,1827.54,4%-6%
+TEN-BLDG_02-4C-084,BLDG_02-4C,2990,Free-Market,High Income,6,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3139.5,149.5,1794,4%-6%
+TEN-BLDG_02-5A-085,BLDG_02-5A,2721.5,Free-Market,High Income,5,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,2857.58,136.08,1632.9,4%-6%
+TEN-BLDG_02-5B-086,BLDG_02-5B,3085.2,Free-Market,High Income,5,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3239.46,154.26,1851.12,4%-6%
+TEN-BLDG_02-5C-087,BLDG_02-5C,2874,Free-Market,High Income,4,0,0,0,0,High Income,0,0,Standard,0.00%,0.05,3017.7,143.7,1724.4,4%-6%

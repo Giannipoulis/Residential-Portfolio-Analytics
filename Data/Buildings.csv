@@ -1,0 +1,3 @@
+Building_ID,Building_Name,Building_Type,Total_Units,Occupancy_Rate,Monthly_Mortgage,Annual_Debt_Service,Building_Size_m2,Avg_Rent_Per_m2
+BLDG_01,Central Residential Building,Regulated,71,0.9859,0,0,0,0
+BLDG_02,Central Residential Building,Market-Rate,16,1.0000,0,0,0,0
