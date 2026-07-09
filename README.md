@@ -1,7 +1,7 @@
 # Residential Portfolio Analytics
 ## Revenue Optimization and Portfolio Performance Dashboard
 
-An end-to-end business intelligence project built with MySQL, Power BI, Excel, Power Query, and DAX to uncover revenue opportunities, monitor receivables risk, and evaluate portfolio performance across a residential property portfolio.
+This end-to-end Business Intelligence project transforms residential property data into actionable business insights through relational database design, SQL analytics, feature engineering, and interactive dashboard development.
 
 **Tools:** Excel • MySQL • Power BI • DAX • Power Query
 
@@ -95,7 +95,7 @@ Key visuals include:
 The analytical solution generated several actionable insights:
 
 ### Portfolio Performance
-- Confirmed a strong occupancy rate of 98.85%.
+- Achieved an occupancy rate of 98.85%.
 
 ### Revenue Optimization
 - Identified over €309K in embedded annual revenue upside.
@@ -134,8 +134,8 @@ These findings provide clear, data-driven direction to improve revenue performan
 | Database Design | Designed and implemented a relational MySQL database with analytical SQL views for reporting. |
 | SQL Development | Built analytical SQL solutions using joins, CTEs, subqueries, CASE expressions, window functions, aggregate functions, and NULL handling. |
 | Feature Engineering | Created analytical metrics for rent performance, occupancy, payment tracking, and property comparisons. |
-| Data Analysis | Analyzed rental performance across 2 residential buildings and 87 apartments. |
 | Business Intelligence | Transformed operational data into actionable insights through reporting and visualization. |
+| Data Analysis | Analyzed rental performance across 2 residential buildings and 87 apartments. |
 | Dashboard Development | Built executive dashboards with KPI tracking, trends, and portfolio insights. |
 | Power BI Development | Created 28 DAX measures, interactive slicers, filters, and report navigation. |
 | Excel Development | Built advanced Excel dashboards using PivotTables, PivotCharts, Power Query, and analytical formulas. |
@@ -188,12 +188,13 @@ Residential-Portfolio-Analytics/
 - Add forecasting for revenue and portfolio risk.
 - Include additional portfolio performance indicators.
 - Deploy the solution in a cloud environment.
+- Integrate Python for predictive analytics and machine learning.
 
 ## About the Author
 
 **Gianni-Ioannis Poulis**
 
-Business Intelligence | Data Analytics | SQL | Power BI | Excel
+Business Intelligence Analyst | Data Analytics | SQL | Power BI | Excel
 
-- **GitHub:** https://github.com/GianniPoulis
-- **LinkedIn:** https://www.linkedin.com/in/Gianni-Poulis
+- **GitHub:** [Gianni-Ioannis Poulis](https://github.com/GianniPoulis)
+- **LinkedIn:** [Gianni-Ioannis Poulis](https://www.linkedin.com/in/Gianni-Poulis)
