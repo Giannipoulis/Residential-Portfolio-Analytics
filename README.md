@@ -197,4 +197,4 @@ Residential-Portfolio-Analytics/
 Business Intelligence Analyst | Data Analytics | SQL | Power BI | Excel
 
 - **GitHub:** [Gianni-Ioannis Poulis](https://github.com/GianniPoulis)
-- **LinkedIn:** [Gianni-Ioannis Poulis](https://www.linkedin.com/in/Gianni-Poulis)
+- **LinkedIn:** [Gianni-Ioannis Poulis](https://www.linkedin.com/in/gianni-poulis-1b14856/))
